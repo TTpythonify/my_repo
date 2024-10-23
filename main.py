@@ -35,7 +35,10 @@ def find_price():
         return None
     
     return amount
+"""
+This is my comments that i want to use to demonstrate the advantages of using github for programmers
 
+"""
 
 # Send a notification using the Pushbullet API
 def send_notification(title, body, api_key):
